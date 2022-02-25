@@ -3,6 +3,6 @@ function removeDupeChars(e, r = !1) {
 }
 
 /* Example Outputs: */
-removeDupeChars('Hellooooooo, how are youuuuuuuu?????') // Hello, how are you?????
-removeDupeChars('Wow, that code is really short!', true) // Wow, that code is really short!
-removeDupeChars('Ssssshhhhh, be quiet please!') // Ssh, be quiet please!
+removeDupeChars('Hellooooooo, how are youuuuuuuu?????'); // Hello, how are you?????
+removeDupeChars('Wow, that code is really short!', true); // Wow, that code is really short!
+removeDupeChars('Ssssshhhhh, be quiet please!'); // Ssh, be quiet please!
