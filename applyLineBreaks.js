@@ -11,13 +11,13 @@ function applyLineBreaks(string, maxCharLengthPerLine) {
 
 
 /* Example Outputs: */
-applyLineBreaks('Lorem ipsum dolor sit amet, consectetur adipiscing elit.', 30)
+applyLineBreaks('Lorem ipsum dolor sit amet, consectetur adipiscing elit.', 30);
 /*
   Lorem ipsum dolor sit amet,
   consectetur adipiscing elit.
 */
 
-applyLineBreaks('Lorem ipsum dolor sit amet, consectetur adipiscing elit.', 20)
+applyLineBreaks('Lorem ipsum dolor sit amet, consectetur adipiscing elit.', 20);
 /*
   Lorem ipsum dolor
   sit amet,
